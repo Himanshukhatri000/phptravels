@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43433" started-at="2019-10-11T10:35:37Z" finished-at="2019-10-11T10:36:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43433" started-at="2019-10-11T10:35:37Z" finished-at="2019-10-11T10:36:20Z">
+      <class name="Automation.php.TestCase3">
+        <test-method status="PASS" signature="fightSearch()[pri:0, instance:Automation.php.TestCase3@1753acfe]" name="fightSearch" duration-ms="43349" started-at="2019-10-11T16:05:37Z" finished-at="2019-10-11T16:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fightSearch -->
+      </class> <!-- Automation.php.TestCase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
